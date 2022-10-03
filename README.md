@@ -18,3 +18,4 @@ _avec retour à la ligne
 | Header     | Title       |Texte |
 | Paragraph  | Text        |Code Geass|
 |SASAGEYO    | SHINZOOO    | ffdfd    |
+|git merge | permet de fusionner historique Git de 2 branches |
